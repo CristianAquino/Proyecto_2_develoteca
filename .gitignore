@@ -1,0 +1,4 @@
+# no se almacena cache generado
+__pycache__/
+# no se almace entorno virtual en github
+env/
